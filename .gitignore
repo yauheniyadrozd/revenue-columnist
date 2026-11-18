@@ -1,0 +1,7 @@
+# Task instructions must not be committed
+taskvirtualcolumn.md
+taskvirtualcolumn.pdf
+
+.pytest_cache/
+__pycache__/
+*.py[cod]
